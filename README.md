@@ -39,4 +39,17 @@ It used a pretrained MobileNetV2 model to classify images as either **Normal** o
 ## Results 
 - Training Accuracy: **~96-97%**
 - Loss: Low, showing good convergence.
+
+  <img width="539" height="125" alt="image" src="https://github.com/user-attachments/assets/be25e1f8-c60c-4c80-9155-01e201da0788" />
+
+  <img width="661" height="678" alt="image" src="https://github.com/user-attachments/assets/c0f46477-746d-4dcb-809e-f8c295036e9a" />
+
+| Image | Prediction |
+|-------|-----------|
+| 1 | Normal |
+| 2 | Pothole |
+| 3 | Normal |
+| 4 | Pothole |
+
+
   
