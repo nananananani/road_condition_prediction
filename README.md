@@ -51,6 +51,10 @@ It used a pretrained MobileNetV2 model to classify images as either **Normal** o
 | 3 | Normal |
 | 4 | Pothole |
 
+<img width="769" height="557" alt="image" src="https://github.com/user-attachments/assets/1e2b162a-db13-4115-b836-61062b6c1d14" />
+
+
+
 This project is a recruitment task for Microsoft Student Ambassadors Club, SRMIST
 Name: Janani Hema
 Year: 2
